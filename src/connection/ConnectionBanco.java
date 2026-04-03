@@ -13,8 +13,8 @@ public class ConnectionBanco {
     
     private static final String DRIVER = "com.mysql.jdbc.Driver";
     private static final String URL = "jdbc:mysql://localhost:3306/ProjetoJava";
-    private static final String USER = "root";
-    private static final String PASS = "Yakino411@";
+    private static final String USER = "root"; //Seu User
+    private static final String PASS = "SENHA123"; //Sua Senha 
     
     public static Connection getConnection(){
         
