@@ -62,3 +62,8 @@ The system uses a relational database to store information.
 
 ## 📈 Evolution
 This project is a continuation of a previous version without a database, adding persistence and making the application closer to a real-world development scenario.
+
+## 🔗 Previous Version
+This project is based on a previous version without database integration:
+
+👉 https://github.com/Yakino41/java-crud-desktop
