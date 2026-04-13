@@ -1,64 +1,64 @@
-# Projeto 2 — CRUD com Banco de Dados
+# Project 2 — CRUD with Database
 
-## Criador
+## Creator
 **Arthur Gabriel Teotonio Stellato**  
 [GitHub](https://github.com/Yakino41)
 
 ---
 
-##  Sobre
-Este projeto representa a evolução de um sistema CRUD desenvolvido em Java, agora com integração a banco de dados, permitindo persistência das informações.
+## 📌 About
+This project represents the evolution of a CRUD system developed in Java, now integrated with a database, allowing data persistence.
 
-A aplicação utiliza interface gráfica construída no NetBeans e implementa operações completas de gerenciamento de dados.
-
----
-
-##  Funcionalidades
-- Cadastro de registros (Create)
-- Listagem de dados (Read)
-- Atualização de informações (Update)
-- Remoção de registros (Delete)
-- Persistência de dados em banco de dados
+The application uses a graphical interface built in NetBeans and implements complete data management operations.
 
 ---
 
-## Objetivo
-- Aplicar conceitos de Programação Orientada a Objetos (POO)
-- Implementar integração com banco de dados
-- Trabalhar com operações CRUD reais
-- Simular um sistema mais próximo do ambiente profissional
+## ⚙️ Features
+- Record creation (Create)  
+- Data listing (Read)  
+- Information updating (Update)  
+- Record deletion (Delete)  
+- Data persistence using a database  
 
 ---
 
-## Banco de Dados
-O sistema utiliza banco de dados relacional para armazenamento das informações.
-
-### Tecnologias utilizadas:
-- MySQL
-- JDBC (Java Database Connectivity)
-  
-### Funcionalidades relacionadas ao banco:
-- Conexão com banco de dados
-- Execução de comandos SQL (INSERT, SELECT, UPDATE, DELETE)
-- Manipulação de dados via interface gráfica
+## 🎯 Objective
+- Apply Object-Oriented Programming (OOP) concepts  
+- Implement database integration  
+- Work with real CRUD operations  
+- Simulate a system closer to a professional environment  
 
 ---
 
-## Tecnologias utilizadas
-- Java
-- NetBeans (Swing / interface gráfica)
-- MySQL
-- JDBC
+## 🗄️ Database
+The system uses a relational database to store information.
+
+### Technologies used:
+- MySQL  
+- JDBC (Java Database Connectivity)  
+
+### Database-related features:
+- Database connection  
+- Execution of SQL commands (INSERT, SELECT, UPDATE, DELETE)  
+- Data manipulation through the graphical interface  
 
 ---
 
-## Como executar
-1. Clonar o repositório
-2. Configurar o banco de dados (MySQL)
-3. Atualizar as credenciais de conexão no código
-4. Executar o projeto no NetBeans
+## 🚀 Technologies Used
+- Java  
+- NetBeans (Swing / graphical interface)  
+- MySQL  
+- JDBC  
 
 ---
 
-## Evolução
-Este projeto é uma continuação de uma versão anterior sem banco de dados, adicionando persistência e aproximando a aplicação de um cenário real de desenvolvimento.
+## ▶️ How to Run
+1. Clone the repository  
+2. Set up the database (MySQL)  
+3. Update the connection credentials in the code  
+4. Run the project in NetBeans  
+
+---
+
+## 📈 Evolution
+This project is a continuation of a previous version without a database, adding persistence and making the application closer to a real-world development scenario.
